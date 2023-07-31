@@ -1,0 +1,11 @@
+.card{}
+.card.top{}
+
+.taba ul li{margin-right: 40px;}
+.taba ul{display: flex;
+    align-items: center;
+    justify-content: flex-start;padding: 14px;}
+
+    .down{height: 27vh;
+        width: 86vw;
+        background-color: white;}
