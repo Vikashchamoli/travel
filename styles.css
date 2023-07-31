@@ -9,3 +9,10 @@
     .down{height: 27vh;
         width: 86vw;
         background-color: white;}
+
+        #pho{  width: 82vw;
+            margin-left: 9vw;
+          }
+          .row{  width: 82vw;
+           padding: 4vw;
+          }
